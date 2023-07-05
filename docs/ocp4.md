@@ -698,7 +698,7 @@ oc login
 
 - [blog.openshift.com: openshift hive cluster as a service](https://blog.openshift.comopenshift-hive-cluster-as-a-service/)
 - [github.com/openshift/hive](https://github.com/openshift/hive) **API driven OpenShift 4 cluster provisioning and management.** Hive is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift clusters. **OpenShift Hive** is an operator which enables operations teams to easily provision new PaaS environments for developers improving productivity and reducing process burden due to internalIT regulations.
-- [youtube: how to deliver OpenShift as a service (just like Red Hat)](https://www.youtube.comwatch?v=b_NOrGxfH5Y)
+- [youtube: how to deliver OpenShift as a service (just like Red Hat)](https://www.youtube.com/watch?v=b_NOrGxfH5Y)
 
 ## OpenShift 4 Master API Protection in Public Cloud
 
